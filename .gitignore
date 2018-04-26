@@ -1,0 +1,8 @@
+.svn
+target/
+*.iml
+*.ipr
+*.iws
+*.swp
+.DS_STORE
+**/target/
